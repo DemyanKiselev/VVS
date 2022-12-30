@@ -9,7 +9,7 @@ function SecondaryButton(props) {
     border: 1px solid #64748b; /* цвет обводки */
     border-radius: 24px; /*закругление*/
     /*box-shadow: inset 0px 1px 2px rgba(10, 15, 26, 0.08);*/
-    min-width: 144px;
+    min-width: 217px;
     color: #dfdfdf;
     &:hover {
       border-color: #dfdfdf;
