@@ -12,6 +12,7 @@ function SecondaryButton(props) {
     min-width: ${minWidth};
     color: #152842;
     &:hover {
+      border-color: #dfdfdf;
       opacity: 0.8; /* прозрачность на 80% при ховере */
     }
     &:active {
